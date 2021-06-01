@@ -1,0 +1,8 @@
+Write a program to implement CIRCULAR LL.(10m)
+Write a program to implement PRIORITY QUEUE using LL.(10m)
+Write a program to implement STACK using LL.(10m)
+Write a program to implement DOUBLY LL.(10m)
+Write a program to implement SINGLY LL.(10m)
+Write a program to implement SIMPLE QUEUE using LL.(10m)
+Write a program to add 2 polynomial using LL.(10m)
+State advantages of LL and explain diffrent application.(10m)
