@@ -1,0 +1,12 @@
+Explain doubaly LL.(5m)
+State diffrnce between single LL & doubly LL.(5m)
+Design and implement the function to count number of nodes in LL.(5m)
+Write ensert and delet function for doubly LL.(5m)
+Write a ADt for insert  & delet at begining  functions.(5m)
+Write a ADt for insert & delet at end functions.(5m)
+Write a ADt for insert & delet at pos functions.(5m)
+Write a function to revers the LL.(5m)
+Write a function to sort the LL.(5m)
+Wrtie a function ti join two LL.(5m)
+
+

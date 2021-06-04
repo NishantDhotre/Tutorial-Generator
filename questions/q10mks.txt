@@ -1,0 +1,6 @@
+Write a C program to implement a queue.(10 marks)
+Write a program in C to implement Circular queue.(10 marks)
+Write a program in C to implement Priority queue with normal insert.(10 marks)
+Write a program in C to implement Priority queue with normal delete.(10 marks)
+Write a program in C to implement double ended queue.(10 marks)
+Write a program to implement simple queue.(10 marks)
